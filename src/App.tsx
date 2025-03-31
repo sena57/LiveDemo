@@ -7,6 +7,7 @@ function App() {
     <>
       <div>
         <h1>Özcan</h1>
+        <p>Bu projede, React ve Redux aracılığıyla bir e-ticaret sitesi geliştirilmektedir.</p>
       </div>
     </>
   )
